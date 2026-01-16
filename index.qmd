@@ -8,9 +8,6 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/matthomas01/
-    - icon: twitter
-      text: Twitter/X
-      href: https://x.com/MelserRamon
     - icon: github
       text: GitHub
       href: https://github.com/mathewthomasvan
