@@ -14,6 +14,12 @@ about:
     - icon: envelope-at
       text: Email
       href: mailto:mthoma14@student.ubc.ca
+      
+format:
+    html:
+      theme: Solar
+      css: styles.css
+      toc: true
 ---
 About me
 
