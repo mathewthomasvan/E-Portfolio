@@ -1,22 +1,22 @@
 ---
-title: "My E-Portfolio"
-image: images/MGEM_logo.png
+title: "Mathew Thomas"
+image: images/Mat_beach_2026.jpg
 about:
   template: trestles
   image-width: 20em
   links: 
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/ramon-melser-666932129/
+      href: https://www.linkedin.com/in/matthomas01/
     - icon: twitter
       text: Twitter/X
       href: https://x.com/MelserRamon
     - icon: github
       text: GitHub
-      href: https://github.com/ramonmelser
+      href: https://github.com/mathewthomasvan
     - icon: envelope-at
       text: Email
-      href: mailto:melser@student.ubc.ca
+      href: mailto:mthoma14@student.ubc.ca
 ---
 
 Hey there people,
